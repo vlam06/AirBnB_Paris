@@ -1,0 +1,8 @@
+Data se musí stahnout a vložit do složky Airbnb_Data
+Data:
+https://www.kaggle.com/vaibhav2025/airbnb-listings-reviews
+
+GitHub:
+https://github.com/DAB-2021/AirBnB-4IZ566
+
+Omlouváme se, ale INSIS má omezení pro vkládání na 5MB
